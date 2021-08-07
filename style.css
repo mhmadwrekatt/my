@@ -48,8 +48,6 @@ background: linear-gradient(to right top  ,rgb(73, 73, 73),grey,rgb(238, 207, 20
     /*margin: auto;*/
 }
 main{
-    height: 2000px ;
-
     padding-left : 20px ;
     padding-right : 20px ;
 }
