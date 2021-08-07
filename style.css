@@ -41,17 +41,17 @@ body p:nth-child(3)
 
 body
 {
-    width : 1024px ;
+    width : 960px ;
 background: linear-gradient(to right top  ,rgb(73, 73, 73),grey,rgb(238, 207, 207),rgb(238, 207, 207),white, white,rgb(111, 185, 62),rgb(102, 255, 0));
     /*text-align: center;*/
    /* background:linear-gradient(to right top , white ,rgb(238, 207, 207),grey);*/
     /*margin: auto;*/
 }
 main{
-    height: 900px ;
+    height: 2000px ;
 
-    padding-left : 32px ;
-    padding-right : 32px ;
+    padding-left : 20px ;
+    padding-right : 20px ;
 }
 
 footer
